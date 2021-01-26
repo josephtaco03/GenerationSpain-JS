@@ -7,3 +7,5 @@ function esPalindromo(cadena) {
 }
 
 console.log(esPalindromo("geeksforgeeks"))
+
+'Hola Mundo'
